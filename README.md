@@ -1,5 +1,7 @@
 # Sales & Customer Insights – Excel Data Analysis Project
 
+![Image](https://github.com/user-attachments/assets/ed09b224-c143-460b-9ad2-e95e813148e8)
+
 ## 📌 Project Overview
 
 This project explores key customer and sales performance insights using
